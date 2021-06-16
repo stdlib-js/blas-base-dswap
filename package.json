@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-dswap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Interchange two double-precision floating-point vectors.",
   "license": "Apache-2.0",
   "author": {
