@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@esm/index.mjs';
+import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@v0.0.8-esm/index.mjs';
 ```
 
 #### dswap( N, x, strideX, y, strideY )
@@ -154,7 +154,7 @@ dswap.ndarray( 3, x, 2, 1, y, -1, y.length-1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@esm/index.mjs';
+import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@v0.0.8-esm/index.mjs';
 
 var x;
 var y;
