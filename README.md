@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-dswap/tags). For example,
+
+```javascript
 import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@v0.0.9-esm/index.mjs';
 ```
 
@@ -154,7 +159,7 @@ dswap.ndarray( 3, x, 2, 1, y, -1, y.length-1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@v0.0.9-esm/index.mjs';
+import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@esm/index.mjs';
 
 var x;
 var y;
