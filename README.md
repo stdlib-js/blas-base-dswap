@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@deno/mod.js';
+import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@v0.2.1-deno/mod.js';
 ```
 
 #### dswap( N, x, strideX, y, strideY )
@@ -158,7 +158,7 @@ dswap.ndarray( 3, x, 2, 1, y, -1, y.length-1 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@deno/mod.js';
+import dswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-dswap@v0.2.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
