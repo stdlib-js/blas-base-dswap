@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a62dd7c`](https://github.com/stdlib-js/stdlib/commit/a62dd7c2fc0d7be93ea3dbb7a8ac479c3bd10bdf) - **bench:** use string interpolation in `blas/base/dswap` [(#10517)](https://github.com/stdlib-js/stdlib/pull/10517) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.4.1">
 
 ## 0.4.1 (2026-02-07)
